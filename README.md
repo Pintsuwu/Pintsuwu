@@ -4,19 +4,15 @@
 
 ###
 
-<h1 align="left">Hi 👋! My name is Renfred D. Cornejo</h1>
+<h2 align="left">Hi 👋! My name is Renfred D. Cornejo</h2>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">✨ About Me:</h2>
 
 ###
 
-<br clear="both">
-
-<img align="left" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFldjJna25lZWx3aHdkYXZlaW5wcXI2a3JhOWJkMHZsZGJwenR3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nqTPvz4t4SKD2NfYnI/giphy.gif"  />
+<img align="left" height="110" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFldjJna25lZWx3aHdkYXZlaW5wcXI2a3JhOWJkMHZsZGJwenR3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nqTPvz4t4SKD2NfYnI/giphy.gif"  />
 
 ###
 
@@ -30,9 +26,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <a href="https://discordapp.com/users/583235502157725706" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -51,6 +45,12 @@
   <a href="mailto:cornejorenfred@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="" src="https://steamuserimages-a.akamaihd.net/ugc/826818638582871330/0D7428A63D93AD69129192586FC06DC57D17D8B3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
@@ -84,6 +84,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
+
+###
+
+<h2 align="left">📊 GitHub Stats:</h2>
 
 ###
 
