@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJxcW5iMHl2Nms3dmU0c3d3MTFlNG1iaTRlbWMwbG05dG00MHZvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lrDAgsYq0eomhwoESZ/giphy.gif" alt="MasterHead" />
-</div>
+![MasterHead](https://giffiles.alphacoders.com/222/222829.gif)
 <h1 align="center">Hi 👋, I'm Renfred D. Cornejo</h1>
-<h3 align="center">A BSIT Student from Benedicto College</h3>
+<h3 align="center">An BSIT Student from Benedicto College</h3>
 <img align="right" alt="Aqua" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVvM2N1dWNtdmJjdGp5YTFiZjlydnpqd2dzaXN4NG9sNnZvYjY5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GDNpO42UgnRuw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pintsuwu&label=Profile%20views&color=0e75b6&style=flat" alt="pintsuwu" /> </p>
